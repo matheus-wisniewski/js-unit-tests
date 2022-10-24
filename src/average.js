@@ -10,7 +10,9 @@
     - average([1, 1]) // Retorno: 1;
     - average([1, '2']) // Retorno: undefined;
 */
-/// javascript
-const average = () => {};
+
+const average = (array) => {
+  let result;
+};
 
 module.exports = average;
