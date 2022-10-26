@@ -12,7 +12,7 @@
 */
 
 const average = (array) => {
-  let result;
+  
 };
 
 module.exports = average;
